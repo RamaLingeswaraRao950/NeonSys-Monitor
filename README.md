@@ -1,6 +1,6 @@
 # ⚡ NeonSys Monitor ⚡
 
-🌌 NeonSys Monitor is a futuristic real-time system resource monitoring tool built with Python, Tkinter, and Matplotlib.
+🌌 NeonSys Monitor is a system resource monitoring tool built with Python, Tkinter, and Matplotlib.
 It combines beautiful neon visuals with live system stats to track CPU, RAM, Disk, Network, and Uptime in style. 💻✨
 
 ### 🌟 Features :--
